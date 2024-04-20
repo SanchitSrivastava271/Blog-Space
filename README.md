@@ -3,12 +3,15 @@ Welcome to our vibrant blog hub, where curiosity meets insight. Dive into a worl
 
 TO start the website open two terminals
 
+to start frontend
+
 in 1st terminal
 cd frontend -> npm run dev
 
-to start frontend
+
+
+to start backend
 
 in 2nd terminal
 cd backend -> npm run dev
 
-to start backend
