@@ -5,4 +5,6 @@ TO start the website open terminal
 cd frontend -> npm run dev
 
 then open new terminal
+
+in 2nd terminal
 cd backend -> npm run dev
